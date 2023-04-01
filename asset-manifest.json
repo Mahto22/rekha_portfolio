@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/rekha_portfolio/static/css/main.a6afbe08.css",
+    "main.js": "/rekha_portfolio/static/js/main.d564e09b.js",
+    "static/media/portfolio5.png": "/rekha_portfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/cv.pdf": "/rekha_portfolio/static/media/cv.0b3832f1f4bcca1acad7.pdf",
+    "static/media/portfolio2.jpg": "/rekha_portfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/rekha_portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/me.jpeg": "/rekha_portfolio/static/media/me.b2159dad0d268cf140e4.jpeg",
+    "static/media/portfolio1.jpg": "/rekha_portfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/rekha_portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/rekha_portfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/rekha_portfolio/index.html",
+    "main.a6afbe08.css.map": "/rekha_portfolio/static/css/main.a6afbe08.css.map",
+    "main.d564e09b.js.map": "/rekha_portfolio/static/js/main.d564e09b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6afbe08.css",
+    "static/js/main.d564e09b.js"
+  ]
+}
