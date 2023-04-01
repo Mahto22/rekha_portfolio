@@ -50,11 +50,14 @@ header{
 	width: 20rem;
 	border-radius: 50%;
 	background-color: var(--color-primary);
-    border: 2px dotted var(--color-white);
+    border: 3px dotted rgb(195, 14, 14);
     position: absolute;
     left: calc(50% - 11rem);
     padding: 0.5rem 0 0 0;
+    animation: blink 1s;
+    animation-iteration-count: infinite;
 }
+@keyframes blink { 50% { border-color:#fff ; }  }
 
 /* ==================== SCROLL DOWN ========================== */
 .scroll__down{
