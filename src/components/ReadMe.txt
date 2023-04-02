@@ -4,6 +4,8 @@
 4. React Icons 
 5. CSS
 6. For Form fill use EmailJS and install emailjs (npm install @emailjs/browser --save) to send a message directly to the mail
+-> react emailjs link (https://www.emailjs.com/docs/sdk/installation/)
+-> emailjs link (https://dashboard.emailjs.com)
 7. Add repository on git
 8. Build and deploy the project on git with a live server
 9. Install git pages for deploy support (npm i gh-pages --save-dev)
