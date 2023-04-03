@@ -1,6 +1,10 @@
 {
   "name": "rekha-resume",
+<<<<<<< HEAD
   "homepage": "https://rekhamahto.in/rekha_portfolio",
+=======
+  "homepage": "http://rekhamahto.in/rekha_portfolio",
+>>>>>>> 16854b0f7d424d1859c0004a9d567a522307c4c2
   "version": "0.1.0",
   "private": true,
   "dependencies": {
