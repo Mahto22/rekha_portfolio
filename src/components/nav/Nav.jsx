@@ -31,14 +31,14 @@ const Nav = () => {
       <a
         href="#portfolio"
         onClick={() => setActiveNav("#portfolio")}
-        className={activeNav === "portfolio" ? "active" : ""}
+        className={activeNav === "#portfolio" ? "active" : ""}
       >
         <AiOutlineFundProjectionScreen></AiOutlineFundProjectionScreen>
       </a>
       <a
         href="#contact"
         onClick={() => setActiveNav("#contact")}
-        className={activeNav === "contact" ? "active" : ""}
+        className={activeNav === "#contact" ? "active" : ""}
       >
         <BiMessageDetail></BiMessageDetail>
       </a>
